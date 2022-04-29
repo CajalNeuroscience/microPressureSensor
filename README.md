@@ -31,13 +31,13 @@ The seal around the pressure transducer is critical for reliable readings.  It's
 
 Partlist
 
-Part\tValue\tDevice\tPackage\tLibrary\tSheet
-
-- C1       100 nF            C-USC1206             C1206              rcl                 1
-- J1       QWIIC_RIGHT_ANGLE QWIIC_CONNECTORJS-1MM JST04_1MM_RA       SparkFun-Connectors 1
-- R1       10k               R-US_M1206            M1206              rcl                 1
-- R2       10k               R-US_M1206            M1206              rcl                 1
-- U1       MS583730BA01-50   MS583730BA01-50       TE_MS583730BA01-50 MS583730BA01-50     1
+| Part | Value | Package | 
+| ---- | ----- | ------- | 
+|C1 | 100 nF | C1206 |
+|J1 | QWIIC_RIGHT_ANGLE | JST04_1MM_RA |
+|R1 | 10k | M1206 |
+|R2 | 10k | M1206 |
+|U1 | MS583730BA01-50 | TE_MS583730BA01-50 |
 
 Pressure sensor is one of several related products from TE Connectivity.  The MS583730BA01-50 device was used here.  These are ~$14 on Digikey for Qty : 1.  Compatible products exist that have different pressure ranges and environment tolerances. 
 
