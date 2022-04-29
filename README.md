@@ -31,19 +31,13 @@ The seal around the pressure transducer is critical for reliable readings.  It's
 
 Partlist
 
-Exported from pressureSensor.sch at 4/29/2022 12:58 PM
+Part\tValue\tDevice\tPackage\tLibrary\tSheet
 
-EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
-
-Assembly variant: 
-
-Part     Value             Device                Package            Library             Sheet
-
-C1       100 nF            C-USC1206             C1206              rcl                 1
-J1       QWIIC_RIGHT_ANGLE QWIIC_CONNECTORJS-1MM JST04_1MM_RA       SparkFun-Connectors 1
-R1       10k               R-US_M1206            M1206              rcl                 1
-R2       10k               R-US_M1206            M1206              rcl                 1
-U1       MS583730BA01-50   MS583730BA01-50       TE_MS583730BA01-50 MS583730BA01-50     1
+- C1       100 nF            C-USC1206             C1206              rcl                 1
+- J1       QWIIC_RIGHT_ANGLE QWIIC_CONNECTORJS-1MM JST04_1MM_RA       SparkFun-Connectors 1
+- R1       10k               R-US_M1206            M1206              rcl                 1
+- R2       10k               R-US_M1206            M1206              rcl                 1
+- U1       MS583730BA01-50   MS583730BA01-50       TE_MS583730BA01-50 MS583730BA01-50     1
 
 Pressure sensor is one of several related products from TE Connectivity.  The MS583730BA01-50 device was used here.  These are ~$14 on Digikey for Qty : 1.  Compatible products exist that have different pressure ranges and environment tolerances. 
 
