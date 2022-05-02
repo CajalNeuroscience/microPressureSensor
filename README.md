@@ -14,7 +14,7 @@ This work largely replicates previous art with some ruggedization improvements. 
 
 Pressure sensor assembly consists of completed PCB, housing block, and shim.  
 
-The housing block CAD is available in ./CAD/Sensor block for 0.25-28 ports. This block accepts the assembled PCB and a inlet and outlet fluidics port.  These ports are made to accept 1/4"-28 flat-bottomed connectors for 1/8" OD tubing (ex: Idex part XP-335).  
+The housing block CAD is available in ./CAD/Sensor block for 0.25-28 ports. This block accepts the assembled PCB and a inlet and outlet fluidics port.  These ports are made to accept 1/4"-28 flat-bottomed connectors for 1/8" OD tubing (ex: Idex part XP-335).  Material should be compatible with the solutions being used; parts machined from PEEK in Qty : 4 were $92 each from Quickparts. 
 
 The shim piece holds the PCB and housing block at the appropriate spacing.  Without this shim it's easy to over-tighten the screws and destroy the pressure sensor component. The shim can be cut according to the included ./CAD/Sensor Block Shim.dxf file.  Cut this outline from just about any stable material of 0.8 mm (0.03") thickness. Prototypes used a piece of scrap laminated card. Suggested material is any stiff material of appropriate thickness that can be cut on a laser cutter (ex: McMaster-Carr 5751T11). 
 
