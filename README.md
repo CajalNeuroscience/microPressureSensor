@@ -8,6 +8,10 @@ Others have demonstrated the use of pressure sensors, originally designed for sm
 
 https://www.hardware-x.com/article/S2468-0672(20)30021-3/fulltext
 
+or depth sensors:
+
+https://bluerobotics.com/store/sensors-sonars-cameras/sensors/bar30-sensor-r1/
+
 This work largely replicates previous art with some ruggedization improvements. The resulting device uses generic communication protocols and does not require interfacing with a specific control or driver board to communicate with a PC.  Machined features for fittings support the pressure range of the transducer. Total cost per unit is under $200 USD. 
 
 ##  Mechanical
